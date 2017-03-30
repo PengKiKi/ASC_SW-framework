@@ -28,6 +28,7 @@ Third-part software:
   Kivy
   PyQt5
   PyGame
+  
 OS:
   Windows 7
   Ubuntu 16.04 LTS
